@@ -26,7 +26,7 @@ See [Contribution Guidelines](#contribution-guidelines)
 * [Turnilo](https://github.com/allegro/turnilo) - Business intelligence, data exploration and visualization web application for Druid, formerly know as Swiv and Pivot.
 * [Metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company.
 * [Redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-
+* [Tipboard](https://allegro.tech/tipboard/) - in-house, tasty, local dashboarding system .
 
 
 ## Graphite
