@@ -24,6 +24,8 @@ See [Contribution Guidelines](#contribution-guidelines)
 * [Metricio](https://metricio.co/) - ⚡ Fast & simple dashboards for all your metrics. Using Node.js and React. ⚡
 * [Apache Superset](https://github.com/apache/incubator-superset) - a modern, enterprise-ready business intelligence web application (previously named Caravel and Panoramix).
 * [Turnilo](https://github.com/allegro/turnilo) - Business intelligence, data exploration and visualization web application for Druid, formerly know as Swiv and Pivot.
+* [Metabase](https://github.com/metabase/metabase) - The simplest, fastest way to get business intelligence and analytics to everyone in your company.
+
 
 
 ## Graphite
